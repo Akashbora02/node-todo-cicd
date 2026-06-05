@@ -38,7 +38,7 @@ Todo Application
 
 | Component              | Configuration    |
 | ---------------------- | ---------------- |
-| Operating System       | Ubuntu 24.04 LTS |
+| Operating System       | Ubuntu 26.04 LTS |
 | CPU                    | 2 vCPUs          |
 | Memory                 | 4 GB RAM         |
 | Storage                | 20 GB Disk       |
@@ -54,7 +54,7 @@ Todo Application
 
 Created an Ubuntu virtual machine with the following specifications:
 
-* Ubuntu 24.04 LTS
+* Ubuntu 26.04 LTS
 * 2 vCPUs
 * 4 GB RAM
 * 20 GB Storage
